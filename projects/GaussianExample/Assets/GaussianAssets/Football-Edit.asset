@@ -18,7 +18,7 @@ MonoBehaviour:
   m_BoundsMax: {x: 1.753757, y: 1.8465645, z: 2.7234788}
   m_DataHash:
     serializedVersion: 2
-    Hash: 11b371785caff5f87336ec668fe2d903
+    Hash: b09ee00f7877e077b92f99e5144daa77
   m_PosFormat: 2
   m_ScaleFormat: 2
   m_SHFormat: 3
