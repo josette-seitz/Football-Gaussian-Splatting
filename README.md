@@ -38,4 +38,4 @@ This demo is focused specifically on sports object capture for immersive footbal
 
 ## 📝 License
 
-Private/internal use only – property of StatusPro.
+Prototype for internal use and demonstration purposes only.
