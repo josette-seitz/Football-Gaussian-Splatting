@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Football-Edit
   m_EditorClassIdentifier: 
   m_FormatVersion: 20231020
-  m_SplatCount: 204555
-  m_BoundsMin: {x: -2.181316, y: -0.6843331, z: -1.8610029}
-  m_BoundsMax: {x: 1.753757, y: 1.8465645, z: 2.7234788}
+  m_SplatCount: 203015
+  m_BoundsMin: {x: -2.0935535, y: -0.51728976, z: -1.074213}
+  m_BoundsMax: {x: 1.6691113, y: 1.8251044, z: 1.1609352}
   m_DataHash:
     serializedVersion: 2
-    Hash: b09ee00f7877e077b92f99e5144daa77
+    Hash: e4a6221ee944a9dbbe1864d99a74fcb9
   m_PosFormat: 2
   m_ScaleFormat: 2
   m_SHFormat: 3
